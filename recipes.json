@@ -418,17 +418,100 @@
         "Salt and pepper to taste"
       ]
     },
-    {
-      "mealType": "lunch",
-      "name": "Chicken Caesar Wrap",
-      "ingredients": [
-        "1 large flour tortilla",
-        "1/2 cup cooked chicken breast, chopped",
-        "1/4 cup Caesar dressing",
-        "1/4 cup shredded parmesan cheese",
-        "1/4 cup chopped romaine lettuce"
-      ]
-    },
+  {
+    "name": "Tuna & Bean Salad",
+    "ingredients": [
+      "1 can tuna, drained",
+      "1/4 cup canned kidney beans, drained",
+      "1/4 cup corn (canned or frozen)",
+      "2 tbsp olive oil",
+      "1 tbsp lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "name": "BBQ Beef Wrap",
+    "ingredients": [
+      "1 large flour tortilla",
+      "1/2 cup cooked beef (shredded or chopped)",
+      "2 tbsp BBQ sauce",
+      "1/4 cup shredded lettuce",
+      "1/4 cup shredded cheese"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "name": "Cheesy Chicken Nachos",
+    "ingredients": [
+      "1/2 cup cooked chicken, shredded",
+      "1/2 cup tortilla chips",
+      "1/4 cup shredded cheddar cheese",
+      "2 tbsp sour cream",
+      "2 tbsp salsa"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "name": "Vegetarian Chili",
+    "ingredients": [
+      "1 can kidney beans, drained",
+      "1 can black beans, drained",
+      "1 can diced tomatoes",
+      "1/4 cup chopped onions",
+      "1 tbsp chili powder",
+      "1 tsp cumin",
+      "1/2 cup frozen corn"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "name": "Philly Cheesesteak Wrap",
+    "ingredients": [
+      "1 flour tortilla",
+      "1/4 lb beef steak, thinly sliced",
+      "1/4 cup bell peppers, sliced",
+      "1/4 cup onions, sliced",
+      "2 tbsp provolone cheese"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "name": "Spicy Chicken Wrap",
+    "ingredients": [
+      "1 large flour tortilla",
+      "1/2 cup cooked chicken breast, chopped",
+      "2 tbsp hot sauce",
+      "1/4 cup shredded lettuce",
+      "1/4 cup diced tomatoes",
+      "1/4 cup shredded cheese"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "name": "Cheese and Bean Burrito",
+    "ingredients": [
+      "1 large flour tortilla",
+      "1/4 cup refried beans",
+      "1/4 cup shredded cheese",
+      "2 tbsp sour cream",
+      "2 tbsp salsa"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "name": "Buffalo Chicken Salad",
+    "ingredients": [
+      "1/2 cup cooked chicken, shredded",
+      "2 tbsp buffalo sauce",
+      "1/4 cup blue cheese dressing",
+      "1/2 cup mixed salad greens",
+      "1/4 cup celery, chopped"
+    ],
+    "mealType": "lunch"
+  },
+
+
     {
       "mealType": "lunch",
       "name": "Sloppy Joe Loaded Fries",
